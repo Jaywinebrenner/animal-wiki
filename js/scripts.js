@@ -8,8 +8,8 @@ $(document).ready(function(){
     $("#" + option).toggle();
 
 
-  })
-})
+  });
+});
 
 
 //
